@@ -13,3 +13,6 @@
 - [Как работает реляционная БД](https://habr.com/en/company/mailru/blog/266811/)
 - [Внешние ключи FOREIGN KEY](https://metanit.com/sql/mysql/2.5.php)
 - [Интерактивное обучение mysql (en)](https://sqlbolt.com/lesson/)
+
+## Python
+- [Шпаргалка python (en)](https://github.com/gto76/python-cheatsheet)
