@@ -16,3 +16,6 @@
 
 ## Python
 - [Шпаргалка python (en)](https://github.com/gto76/python-cheatsheet)
+
+## Flask
+- [Explore Flask](https://exploreflask.com/en/latest/index.html)
